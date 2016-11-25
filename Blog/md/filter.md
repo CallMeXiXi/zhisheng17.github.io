@@ -4,9 +4,9 @@
 
 CSDN地址：[http://blog.csdn.net/tzs_1041218129/article/details/53345485](http://blog.csdn.net/tzs_1041218129/article/details/53345485)
 
-个人博客地址：[www.54tianzhisheng.cn/Blog/html/filter.html](www.54tianzhisheng.cn/Blog/html/filter.html)  （阅读效果最好）
+个人博客地址：[www.54tianzhisheng.cn/Blog/html/filter.html](http://www.54tianzhisheng.cn/Blog/html/filter.html)  （阅读效果最好）
 
-pdf 版本：[www.54tianzhisheng.cn/Blog/pdf/filter.pdf](www.54tianzhisheng.cn/Blog/pdf/filter.pdf)
+pdf 版本：[www.54tianzhisheng.cn/Blog/pdf/filter.pdf](http://www.54tianzhisheng.cn/Blog/pdf/filter.pdf)
 
 所有文章干货都在：[https://github.com/zhisheng17/zhisheng17.github.io](https://github.com/zhisheng17/zhisheng17.github.io)
 
